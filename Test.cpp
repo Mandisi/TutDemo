@@ -8,7 +8,7 @@ int main()
 	Time teaTime(10, 15, 0);
 	Time midnight;
 
-	int hours, mins, secs;
+	int hours, mins, secsi;
 	teaTime.print();
 	cout << endl;
 	midnight.print();
